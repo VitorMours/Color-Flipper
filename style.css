@@ -29,11 +29,12 @@ header{
 }
 header > h1 {
     text-shadow: 1px 1px 1px#6e6e6e;
+    padding:0px 0px 5px 20px;
 }
 header > ul {
     display:flex;
-    width: 600px;
     height:100%;    
+    padding-right: 10px;
     align-items: center;
     text-align: center;
     list-style-type: none;
@@ -77,6 +78,7 @@ section{
     padding: 10px 0px;
 }
 #color-section{
+    width:450px;
     display: flex;
     justify-content: space-between;
     background-color: #252525;
