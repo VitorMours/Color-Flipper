@@ -3,4 +3,4 @@ Atualmente, as cores dentro do CSS são usadas frequentemente e na sua maioria d
 com isso, ví esse projeto na internet, e decidi reproduzir ele com **HTML**, **CSS** e **Javascript**. 
 Depois de ter produzido, decidi também adicionar o projeto dentro de uma hospedagem gratuita, a **netlify**.
 ## Imagem do projeto
-!(Imagem do projeto)[/imagem.png]
+![Imagem do projeto](/imagem.png)
